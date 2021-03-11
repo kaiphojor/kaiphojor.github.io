@@ -4,10 +4,15 @@ title: "[Jekyll] 블로그 시작하다"
 date: 2021-03-11
 categories: Blog
 
-
 ---
 
 
+
+# 시작
+
+![루피](https://user-images.githubusercontent.com/17489892/110798898-f40f3800-82bd-11eb-82f4-6b9be670c5f1.jpg)
+
+씨-익
 
 
 
@@ -38,9 +43,9 @@ categories: Blog
 
 서두에 쓰는 형식은 이렇다.  늘어지면 안하게 되니까 간단하게만 짚으려 했는데, 아무래도 다른 테마의 형식과는 다른듯 하다.... 클릭 가능한 링크 다는데 시간이 좀 걸렸다.
 
+![attach link](https://user-images.githubusercontent.com/17489892/110798929-fa9daf80-82bd-11eb-984a-71a021fc912e.PNG)
 
-
-
+typora의 소스코드 모드를 애용해야겠다... 
 
 
 
@@ -53,12 +58,13 @@ categories: Blog
   * [링크2][link2]
   * [공식문서1][docs1]  
   * [테마][theme]
+  * [사진올리기 꿀팁][picture_tip]
 
 
 
 
 
-
+[picture_tip]: https://ahribori.com/article/5a03bcfd6c9eef13d882e29a
 [theme]: http://jekyllthemes.org/themes/monos/
 [docs1]: https://jekyllrb-ko.github.io/
 [link2]: https://ansohxxn.github.io/blog/posting/
