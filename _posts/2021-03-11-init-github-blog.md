@@ -1,5 +1,7 @@
 ---
+layout: post
 title: "[Jekyll] 블로그 시작하다"
+date: 2021-03-11
 excerpt: "미루다가 평생 안할까봐 그냥 질러보았다."
 
 categories:
@@ -10,8 +12,7 @@ tags:
 toc: true
 toc_sticky: true
 
-date: 2021-03-11
-last_modified_at: 2021-03-11
+
 ---
 
 
