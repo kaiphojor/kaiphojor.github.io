@@ -20,9 +20,11 @@
 
 title: Get Shit Done!
 email: jihoopark7666@gmail.com
-description: learn as you need >- # this means to ignore newlines until "baseurl:"
+description: learn as you need 
+# this means to ignore newlines until "baseurl:"
 baseurl: "/"
 url: "https://kaiphojor.github.io"
+encoding: utf-8
 # baseurl: "/" # the subpath of your site, e.g. /blog
 # url: "http://ejjoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: kaiphojor
