@@ -2,15 +2,7 @@
 layout: post
 title: "[Jekyll] 블로그 시작하다"
 date: 2021-03-11
-excerpt: "미루다가 평생 안할까봐 그냥 질러보았다."
-
-categories:
- - Blog
-tags: 
- - [Blog, jekyll, Github, Git]
-
-toc: true
-toc_sticky: true
+categories: Blog
 
 
 ---
@@ -38,23 +30,13 @@ toc_sticky: true
 layout: post
 title: "[Jekyll] 블로그 시작하다"
 date: 2021-03-11
-excerpt: "미루다가 평생 안할까봐 그냥 질러보았다."
-
-categories:
- - Blog
-tags: 
- - [Blog, jekyll, Github, Git]
-
-toc: true
-toc_sticky: true
+categories: Blog
 ---
 ```
 
 
 
-서두에 쓰는 형식은 이렇다.  늘어지면 안하게 되니까 간단하게만 짚으려 했는데, 아무래도 다른 테마의 형식과는 다른듯 하다.
-
-
+서두에 쓰는 형식은 이렇다.  늘어지면 안하게 되니까 간단하게만 짚으려 했는데, 아무래도 다른 테마의 형식과는 다른듯 하다.... 클릭 가능한 링크 다는데 시간이 좀 걸렸다.
 
 
 
@@ -67,16 +49,18 @@ toc_sticky: true
 > 아무래도 많이 찾아봐야 할 것 같은 링크들...
 
 * 사용법
-  * [https://jekyllrb.com/docs/liquid/](https://jekyllrb.com/docs/liquid/)
-  * 
-  * https://jekyllrb-ko.github.io/
-    * 공식
-  * https://ansohxxn.github.io/blog/posting/  
-  * https://velog.io/@shg4821/%EA%B9%83%ED%97%88%EB%B8%8C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-2-%EA%B2%BD%EB%A1%9C-%EC%A7%80%EC%A0%95-%ED%94%84%EB%A1%9C%ED%95%84-%EB%B3%80%EA%B2%BD-config.yml
-* theme
-  * http://jekyllthemes.org/themes/monos/
+  * [링크1][link1]
+  * [링크2][link2]
+  * [공식문서1][docs1]  
+  * [테마][theme]
 
 
 
 
+
+
+[theme]: http://jekyllthemes.org/themes/monos/
+[docs1]: https://jekyllrb-ko.github.io/
+[link2]: https://ansohxxn.github.io/blog/posting/
+[link1]: https://velog.io/@shg4821/%EA%B9%83%ED%97%88%EB%B8%8C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-2-%EA%B2%BD%EB%A1%9C-%EC%A7%80%EC%A0%95-%ED%94%84%EB%A1%9C%ED%95%84-%EB%B3%80%EA%B2%BD-config.yml
 
