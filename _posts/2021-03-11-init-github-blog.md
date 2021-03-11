@@ -67,7 +67,8 @@ toc_sticky: true
 > 아무래도 많이 찾아봐야 할 것 같은 링크들...
 
 * 사용법
-  * [https://jekyllrb.com/docs/liquid/]({% link https://jekyllrb.com/docs/liquid/  %})
+  * [https://jekyllrb.com/docs/liquid/](https://jekyllrb.com/docs/liquid/)
+  * 
   * https://jekyllrb-ko.github.io/
     * 공식
   * https://ansohxxn.github.io/blog/posting/  
