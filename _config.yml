@@ -20,7 +20,7 @@
 
 title: Get Shit Done!
 email: jihoopark7666@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: learn as you need >- # this means to ignore newlines until "baseurl:"
 baseurl: "/"
 url: "https://kaiphojor.github.io"
 # baseurl: "/" # the subpath of your site, e.g. /blog
