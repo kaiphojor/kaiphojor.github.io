@@ -35,7 +35,9 @@ toc_sticky: true
 
 ```
 ---
+layout: post
 title: "[Jekyll] 블로그 시작하다"
+date: 2021-03-11
 excerpt: "미루다가 평생 안할까봐 그냥 질러보았다."
 
 categories:
@@ -45,15 +47,12 @@ tags:
 
 toc: true
 toc_sticky: true
-
-date: 2021-03-11
-last_modified_at: 2021-03-11
 ---
 ```
 
 
 
-서두에 쓰는 형식은 이렇다.  늘어지면 안하게 되니까 간단하게만 짚는다.
+서두에 쓰는 형식은 이렇다.  늘어지면 안하게 되니까 간단하게만 짚으려 했는데, 아무래도 다른 테마의 형식과는 다른듯 하다.
 
 
 
@@ -68,7 +67,7 @@ last_modified_at: 2021-03-11
 > 아무래도 많이 찾아봐야 할 것 같은 링크들...
 
 * 사용법
-  * https://jekyllrb.com/docs/liquid/
+  * [https://jekyllrb.com/docs/liquid/]
   * https://jekyllrb-ko.github.io/
     * 공식
   * https://ansohxxn.github.io/blog/posting/  
