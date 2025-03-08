@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'NeoDunggeunmo Code';
+    src:url('../fonts/neodgm_code.woff') format('woff');
+    /* 이런식으로 weight를 지정해서 사용할 수도 있다!*/
+    font-weight: 400;
+}
+*{margin:0;padding:0;}
+body{font-size:1em; font-family:'NeoDunggeunmo Code'; color :#ffffff;background: darkblue;}
+ul,ol,li,dl {list-style: none;}
+a{text-decoration: none; color:white;}
+header{font-size:3em; text-align: center; vertical-align: top;}
+
+/* flew container 설정  */
+.flex-container { display: flex; flex-wrap: nowrap; /* 한 줄에 배치 */ justify-content: space-between; /* 요소 간 간격 조정 */ align-items: center;} 
+/* 플렉스 아이템 설정 */ 
+.flex-item { flex: 1 1 auto; /* 유연하게 크기 조절 */ min-width: 0; /* 요소가 overflow되지 않도록 설정 */ padding: 10px; margin: 5px; text-align: center; vertical-align: middle;}
+#header_row{height:115px; width:100%;}
+#header_left{width:20%; height:50%; font-size:.8em;overflow: hidden; text-overflow: ellipsis;}
+#header_right{width:76.8%; height:50%; font-size:.8em; overflow: hidden; text-overflow: ellipsis; /* 텍스트가 초과하면 ... 표시 */ white-space: nowrap; /* 텍스트가 줄 바꿈되지 음 */}
+
+#main_logo_container{width:99%; height:fit-content;}
+h1{justify-content: center;align-items:center;text-align: center;}
+h1 img{ vertical-align: middle; width:auto; height:auto;}
+
+ul{font-size:3em;}
+/* ul a:hover,ul a:active{background-color:white; color:blue;} */
+
+
+.glow-box{border:8px inset #cccccc;}
+.fl{float:left;}
+.cf::after{content:''; display: table; clear: both;}
+
+#main_logo{width: 35%; /* 원하는 너비 설정 */ height: auto; /* 높이는 비율에 맞게 자동 조정 */}
+#horizontal_menu{text-align: center; margin-top:20px;}
+#horizontal_menu li{ display: inline-block; text-align: center;border:5px inset #cccccc;}
+#horizontal_menu li a{ padding:0px 5px; color:white;}
+#horizontal_menu li:hover{border-style:outset;background-color: blue;color:white;}
+#horizontal_menu li:active a{background-color: #cccccc; color:blue;font-weight: 500;}
